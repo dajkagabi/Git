@@ -48,5 +48,11 @@ $ touch .gitignore
 $ git commit -m ""
 $ git log
 
+Elágazások, alverziók kivetítése és összeolvasztása
+
+$ git
+$ git 
+$ git 
+$ git
 
 
