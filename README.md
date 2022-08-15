@@ -22,6 +22,8 @@ Public: a repositoryhoz bárki hozzáférhet és használhatja.
 
 
 
+
+
 Working directory (wd): munkakönyvtár ahol dolgozzunk.
 
 Commit: wd egy bármikor visszaállítható verziója. Eltéréseket tárolja el elsősorban.
@@ -34,11 +36,15 @@ Konfliktus: akkor keletkezik amikor a verziókezelő rendszer nem tud dönteni a
 
 
 
+
+
 Staged: módosított fáljok (állapotok, verziók, tartalom).
 
 Snapshot: egy adott pillanatban, időpontban a könyvtárak, fájlok aktuális állapotát tartalmát, verzióját jelenti.
 
 Stash: biztosítja a wd változásainak ideiglenes elmentését egy biztonságos helyre.
+
+
 
 
 
