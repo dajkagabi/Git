@@ -40,7 +40,7 @@ Fájlok figyelmen kívül hagyása
 Visszavonás
 $ git status
 $ git add .
-$ git reset HEAD <!-- save --!>
+$ git reset HEAD <!-- save.txt --!>
 
 Sose addja hozzá
 $ git status
