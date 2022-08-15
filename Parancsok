@@ -50,11 +50,12 @@ $ git log
 
 Elágazások, alverziók kivetítése és összeolvasztása
 
+$ git status
+$ git branch valami
+$ git show-branch
+$ git checkout master
+$ git commit -m "felvéve"
+$ git chechkout valamimás
 
-
-$ git
-$ git 
-$ git 
-$ git
 
 
