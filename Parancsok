@@ -45,7 +45,7 @@ $ git reset HEAD <!-- save.txt --!>
 Sose addja hozzá
 $ git status
 $ touch .gitignore
-$ git commit -m ""
+$ git commit -m "A .gitignore-ban ha beleírod hogy mit akarsz ignorálni akkor teljesíteni fogja"
 $ git log
 
 Elágazások, alverziók kivetítése és összeolvasztása
