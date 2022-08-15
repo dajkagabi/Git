@@ -35,6 +35,18 @@ $ git status
 $ git commit
 $ git log
 
+Fájlok figyelmen kívül hagyása
+
+Visszavonás
+$ git status
+$ git add .
+$ git reset HEAD <!-- save --!>
+
+Sose addja hozzá
+$ git status
+$ touch .gitignore
+$ git commit -m ""
+$ git log
 
 
 
