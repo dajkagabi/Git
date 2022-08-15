@@ -1,1 +1,11 @@
+A Git használata előtt be kell állítanunk a változások rögzítésére szolgáló e-mail címet és nevet. 
+Ez akkor fontos igazán, ha a repository-t tárolni szeretnénk egy távoli szerveren (pl. GitHub vagy BitBucket) is. 
+Ekkor ugyanazt az e-mail címet és nevet adjuk meg, amivel regisztráltunk a távoli szerverre. 
+git config --global user.name "Saját Nevünk"
+git config --global user.email "@."
+
+Ezután a következő lépés az, hogy létrehozunk egy Git repository-t.
+git init
+
+
 
