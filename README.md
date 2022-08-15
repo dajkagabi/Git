@@ -5,6 +5,7 @@ GIT: nyílt forráskódú, verziókezelő.
 
 CÉL: a fejlesztés alatt álló dokumentumok, tervek, forráskódú és egyéb olyan adatok verzióinak kezelésére amelyeken több ember dolgolgozik egyidejűleg.
 
+
 Fogalmak:
 
 Repository: egy tároló, mely a verzió követett fáljok számos verzióját tárolni tudja.
@@ -20,6 +21,7 @@ Private: a repository csak regisztrált és engedélyezett felhasználók férhe
 Public: a repositoryhoz bárki hozzáférhet és használhatja.
 
 
+
 Working directory (wd): munkakönyvtár ahol dolgozzunk.
 
 Commit: wd egy bármikor visszaállítható verziója. Eltéréseket tárolja el elsősorban.
@@ -31,11 +33,13 @@ Revision number: a repositoryban tárolt változatokra ennek segítségével tud
 Konfliktus: akkor keletkezik amikor a verziókezelő rendszer nem tud dönteni a változtatások sorsáról.
 
 
+
 Staged: módosított fáljok (állapotok, verziók, tartalom).
 
 Snapshot: egy adott pillanatban, időpontban a könyvtárak, fájlok aktuális állapotát tartalmát, verzióját jelenti.
 
 Stash: biztosítja a wd változásainak ideiglenes elmentését egy biztonságos helyre.
+
 
 
 Origin: az a remote, ahonnan eredetileg klónoztuk.
@@ -47,6 +51,7 @@ Merge: két ág összeolvasztásának folyamata.
 Head: hivatkozás a commitra.
 
 
+
 Push: egy remote-ra feltölti a nálunk létező, de onnan még hiányzó commitokat.
 
 Pull: a központi szerverre felküldött változások, commitok letöltése merge-ölése az aktuális branch-ba.
@@ -54,6 +59,8 @@ Pull: a központi szerverre felküldött változások, commitok letöltése merg
 Patch: a létrehozott változásokat egy fájlban írunk ki, amely beolvasztható automatikusan a repoba de ha a repo rev nb nem haladt tovább a patch-ben tárolt értékhez képest.
 
 Fetch: egy remote-ról letölti az ott jelen lévő, de a lokális repositoryból még hiányzó commitokat.
+
+
 
 
 
