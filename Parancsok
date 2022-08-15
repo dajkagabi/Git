@@ -21,11 +21,18 @@ $ git log
 
 Ezt mindig így kell csinálni különben nem menti.
 
-Több fájl hozzáadás
+Több fájl hozzáadás és megjegyzés
+Egy két fálj hozzáadása (kézi)
 $ git status
 $ git add *.php (itt a használatban lévő kiterjesztést kell írni ez csak egy példa)
 $ git status
 $ git commit -m "megjegyzés helye"
+$ git log
+
+Tömegeges fálj hozzáadás(mappa)
+$ git add .
+$ git status
+$ git commit
 $ git log
 
 
