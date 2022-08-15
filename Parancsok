@@ -55,7 +55,10 @@ $ git branch valami
 $ git show-branch
 $ git checkout master
 $ git commit -m "felvéve"
+
 $ git chechkout valamimás
+$ git add .
+$ git commit -m ""
 
 
 
