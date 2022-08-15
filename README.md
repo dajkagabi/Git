@@ -2,6 +2,7 @@
 
 
 GIT: nyílt forráskódú, verziókezelő.
+
 CÉL: a fejlesztés alatt álló dokumentumok, tervek, forráskódú és egyéb olyan adatok verzióinak kezelésére amelyeken több ember dolgolgozik egyidejűleg.
 
 Fogalmak:
