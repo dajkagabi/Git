@@ -56,7 +56,7 @@ $ git show-branch
 $ git checkout master
 $ git commit -m "felvéve"
 
-$ git chechkout valamimás
+$ git  checkout master
 $ git add .
 $ git commit -m ""
 
@@ -69,7 +69,12 @@ $ git commit -m " "
 $ git log
 $ git merge -ag neve-
 
+Konfliktus
 
+$ git
+$ git
+$ git
+$ git 
 
 
 
