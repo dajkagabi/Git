@@ -60,11 +60,17 @@ $ git chechkout valamimás
 $ git add .
 $ git commit -m ""
 
-Beolvasztás
+Beolvasztás (MERGE)
+$ git status
+$ git checkout master
+A változásokat mindig menteni kell!
+$ git add .
+$ git commit -m " "
+$ git log
+$ git merge -ag neve-
 
 
 
-Új ág 
 
 
 
