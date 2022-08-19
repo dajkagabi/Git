@@ -71,10 +71,14 @@ $ git merge -ag neve-
 
 Konfliktus
 
-$ git
-$ git
-$ git
-$ git 
+$ git status
+$ git commit -m ""
+$ git checkout Kivonas
+$ git add .
+$ git checkout master
+$ git commit -m "Konfliktus kezeles"
+// $ git merge kivonas, ujra mentes.
+
 
 
 
