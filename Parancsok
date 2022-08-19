@@ -79,6 +79,13 @@ $ git checkout master
 $ git commit -m "Konfliktus kezeles"
 // $ git merge kivonas, ujra mentes.
 
+Alverzió
+
+$ git status
+$ git checkout kivonas
+$ git merge master
+$ git git checkout master
+
 
 
 
