@@ -82,7 +82,7 @@ A Git alapvető parancsai a következők:
     
     git commit: commitolja a változtatásokat a git repositoryba
     
-    git checkout: visszaállítja a repositoryt egy korábbi verzióra
+    git checkout: ágakat vált.
     
     git diff: két fájl vagy commit közötti különbségeket mutatja meg.
 
