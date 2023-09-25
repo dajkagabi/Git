@@ -84,5 +84,21 @@ A Git alapvető parancsai a következők:
     
     git checkout: visszaállítja a repositoryt egy korábbi verzióra
     
-    git diff: összehasonlítja a repositoryt két verzió között
+    git diff: két fájl vagy commit közötti különbségeket mutatja meg.
+
+    git push: felküld egy commitot egy távoli adattárba.
+    
+    git pull: letölt egy commitot egy távoli adattárból.
+
+    git branch: ágakat kezel.
+    
+    git merge: ágakat egyesít.
+    
+    git stash: változásokat ideiglenesen elrejt.
+    
+    git tag: címkeket ad a commitokhoz.
+    
+    git reset: commitokat állít vissza.
+    
+    git revert: commitokat visszavon.
     
